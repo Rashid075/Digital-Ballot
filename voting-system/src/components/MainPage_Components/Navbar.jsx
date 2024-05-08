@@ -13,7 +13,7 @@ const Navbar = () => {
     await signOut(auth);
     localStorage.removeItem("token");
     localStorage.removeItem("user");
-    navigate("/Digital-Ballot");
+    navigate("/Digital-Ballot/");
   };
 
   return (

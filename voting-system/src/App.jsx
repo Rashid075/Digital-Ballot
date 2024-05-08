@@ -11,7 +11,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/Digital-Ballot" element={<HomePage />} />
+        <Route path="/Digital-Ballot/" element={<HomePage />} />
         <Route path="/main" element={<MainPage />} />
         <Route path="/candidate" element={<Canidates/>}/>
         <Route path="/voting" element={<Voting/>}/>
