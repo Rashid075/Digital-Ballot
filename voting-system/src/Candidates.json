@@ -1,0 +1,39 @@
+[
+    {
+      "id":1,
+      "name": "Alice Johnson",
+      "role": "Accounting Manager",
+      "image": "https://img.freepik.com/premium-photo/vector-happy-businessman_833755-2285.jpg?w=740",
+      "qualification": "Master's DegreeB in Accounting",
+      "position": "CEO of Origin",
+      "country": "United States of America"
+    },
+    {
+      "id":2,
+      "name": "Bob Anderson",
+      "role": "HR Manager",
+      "image": "https://img.freepik.com/premium-vector/man-suit-tie-standing-with-hands-hips-cartoon-vector_646737-5317.jpg?w=740",
+      "qualification": "Master's Degree in Business Management",
+      "position": "CEO of Origin",
+      "country": "United States of America"
+    },
+    {
+      "id":3,
+      "name": "Charlie Brown",
+      "role": "Economic Consultant",
+      "image": "https://img.freepik.com/premium-vector/man-giving-thumbs-up-vector-illustration-happy-guy-showing-ok-gesture-approval-sign_135170-3270.jpg?w=740",
+      "qualification": "Master's Degree in Economics",
+      "position": "CEO of Origin",
+      "country": "United States of America"
+    },
+    {
+      "id":4,
+      "name": "Eve Davis",
+      "role": "Finance Advisor",
+      "image": "https://img.freepik.com/premium-vector/teacher-cartoon-vector-white-background_889056-56348.jpg?w=740",
+      "qualification": "Master's Degree in Finance & Engineering",
+      "position": "CEO of Origin",
+      "country": "United States of America"
+    }
+  ]
+  
